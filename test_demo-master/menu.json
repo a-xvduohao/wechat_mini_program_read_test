@@ -6,7 +6,7 @@
       "price": 311350,
       "stock": 10,
       "category": 1,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/双人帐篷.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/双人帐篷.jpg",
       "description": "适合两人使用的防水帐篷",
       "deposit": 300
     },
@@ -16,7 +16,7 @@
       "price": 100,
       "stock": 5,
       "category": 1,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/单人帐篷.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/单人帐篷.jpg",
       "description": "轻便单人帐篷",
       "deposit": 300
     },
@@ -26,7 +26,7 @@
       "price": 200,
       "stock": 8,
       "category": 2,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/天幕.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/天幕.jpg",
       "description": "户外防雨天幕",
       "deposit": 300
     },
@@ -36,7 +36,7 @@
       "price": 300,
       "stock": 12,
       "category": 3,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/羽绒睡袋.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/羽绒睡袋.jpg",
       "description": "保暖羽绒睡袋",
       "deposit": 300
     },
@@ -46,7 +46,7 @@
       "price": 250,
       "stock": 6,
       "category": 4,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/折叠桌椅套装.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/折叠桌椅套装.jpg",
       "description": "便携折叠桌椅",
       "deposit": 300
     },
@@ -56,7 +56,7 @@
       "price": 80,
       "stock": 15,
       "category": 5,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/LED露营灯.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/LED露营灯.jpg",
       "description": "可充电LED露营灯",
       "deposit": 300
     },
@@ -66,7 +66,7 @@
       "price": 180,
       "stock": 7,
       "category": 6,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/野餐炉具.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/野餐炉具.jpg",
       "description": "便携式野餐炉具",
       "deposit": 300
     },
@@ -76,7 +76,7 @@
       "price": 120,
       "stock": 20,
       "category": 7,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/收纳箱.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/收纳箱.jpg",
       "description": "大容量收纳箱",
       "deposit": 300
     },
@@ -86,7 +86,7 @@
       "price": 90,
       "stock": 10,
       "category": 8,
-      "image": "https://gitee.com/ah-many-good-ones/test_demo/tree/master/image/登山绳.jpg",
+      "image": "https://a-xvduohao.github.io/wechat_mini_program_read_test/test_demo-master/image/登山绳.jpg",
       "description": "高强度登山绳",
       "deposit": 300
     }
